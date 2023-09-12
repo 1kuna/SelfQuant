@@ -39,7 +39,13 @@ ______________________________
 - Data Analysis
 - Visualization
 - User Interface
-- Data Storage
+- Data Storage (SQL?)
 - Language Model
 - Machine Learning Model (self-learning)
   - Create a baseline from the user's data and then use that to predict future data
+
+TODO:
+- [ ] Make note of all health metrics and algorithms to calculate
+- [ ] Figure out where to fit in the machine learning model
+- [ ] Determine whether I'll use R at all
+- [ ] Create files for each of the above sections
