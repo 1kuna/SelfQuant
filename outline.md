@@ -46,6 +46,7 @@ ______________________________
  
 ## Other Functionality
 - Notifications when a metric hasn't been updated in a while?
+- Possible work tracking
 
 TODO:
 - [ ] Make note of all health metrics and algorithms to calculate
