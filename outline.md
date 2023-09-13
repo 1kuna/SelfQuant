@@ -32,7 +32,7 @@ ______________________________
 
 # Code Outline
 
-## Functionality Overview
+## Main Functionality Overview
 - Data Import
   - Data Syncing from other sources
   - Potentially built-in desktop/mobile tracking?
@@ -43,6 +43,10 @@ ______________________________
 - Language Model
 - Machine Learning Model (self-learning)
   - Create a baseline from the user's data and then use that to predict future data
+ 
+## Other Functionality
+- Notifications when a metric hasn't been updated in a while?
+- Possible work tracking
 
 TODO:
 - [ ] Make note of all health metrics and algorithms to calculate
