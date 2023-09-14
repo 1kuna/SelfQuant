@@ -1,3 +1,6 @@
+TODO: Research how HRV and ECG are connected. Also research how heart rate and blood pressure can be looped (or not 
+looped) into the functions of those metrics and their relevance towards getting meaningful deductions from our analysis.
+
 - **HRV Metrics:**
     - HRV
     - Heart Rate
@@ -7,21 +10,33 @@
 - **HRV Algorithms:**
     - HRV Score
     - InRMSSD
+      - Logarithmic transformation of RMSSD.
     - RMSSD
+      - A measure to quantify the variability in RR intervals.
+      - Focuses on short-term fluctuations, often related to respiratory influences.
     - SDNN
+      - A measure of the variability in the time between all pairs of consecutive heartbeats (NN intervals).
+      - Gives a broader view, capturing long-term fluctuations.
     - NN50
+      - Counts how many NN intervals differ by more than 50 ms.
     - pNN50
+      - Proportional version of NN50, more interpretable. `(NN50/Total NN Intervals) x 100`
     - Poincare plot (SD1, SD2, SD1/SD2)
+      - Visual insight into heart rate dynamics. Patterns can indicate different physiological or pathological states.
     - Simple Entropy and Approximate Entropy
     - LF & HF
     - LF/HF ratio
-    - Mean RR
+    - RR Intervals
+      - The time intervals between consecutive R-peaks in an ECG. Usually measured in milliseconds.
     - MxDMn
+      - The maximum minus the minimum NN interval. Reflects extreme variability.
     - Moda
     - AMo50
+      - The average of NN intervals differing by more than 50ms. A sort of blend between RMSSD and NN50.
     - CV
     - TINN
-    - FFT (potentially for ECGs)
+    - FFT (Fast Fourier Transform)
+      - Potentially for ECGs, check for HRV too
 
 ---
 
