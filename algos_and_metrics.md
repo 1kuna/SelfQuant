@@ -72,7 +72,7 @@
 ## Nervous System
 
 - Sympathetic & Parasympathetic Coherence
-    - More info from [Dr. Alan Watkins Part 1](https://youtu.be/q06YIWCR2Js?si=CEQqyBROOto1FCww) and [Part 2](https://youtu.be/Q_fFattg8N0?si=p20w-aUUBnXMgY6e)
+    - More info from Dr. Alan Watkins [Part 1](https://youtu.be/q06YIWCR2Js?si=CEQqyBROOto1FCww) and [Part 2](https://youtu.be/Q_fFattg8N0?si=p20w-aUUBnXMgY6e)
 - Nervous System Balance
 - Vagal Tone
 - "Balance" between SNS and PSNS
@@ -81,9 +81,11 @@
 
 ## Sleep Metrics
 
-- Sleep stages (Wake, N1, N2, N3, REM)
+- [Sleep stages (Wake, N1, N2, N3, REM)](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
 - Total sleep time
 - Respiratory rate
+  - [Respiratory rate variability in people without sleep apnea](https://doi.org/10.14814/phy2.12949)
+  - [Changes in respiration, heart rate, and systolic blood pressure during sleep](https://doi.org/10.1152/jappl.1964.19.3.417)
 
 ### Sleep Algorithms
 
@@ -93,8 +95,12 @@
 - Wake after sleep onset
 - Number of awakenings
 - REM latency
+  - [Shortened REM Latency from Psychological Strain](https://doi.org/10.1111/j.1469-8986.1987.tb00293.x)
+  - [REM Latency: A psychobiologic marker for primary depressive disease](https://europepmc.org/article/med/183839)
 - REM duration
 - REM percentage
+- Other Resources
+  - [The Effect of Psychosocial Stress on Sleep: A Review of Polysomnographic Evidence](https://doi.org/10.1080/15402000701557383)
 
 ---
 
@@ -104,6 +110,7 @@
 - Resting heart rate
 - Blood Pressure
 - Mean arterial pressure
+  - [Physiology, Mean Arterial Pressure](https://europepmc.org/article/nbk/nbk538226)
 - Sunlight
 - Meditation
 - Screen Time
@@ -111,6 +118,8 @@
 - Body temperature?
 - Emotional sentiment
 - Medications
+  - [The effects of the prodrug Vyvanse on spatial working memory and adiposity in rats](https://www.sciencedirect.com/science/article/abs/pii/S009130571830618X)
+  - [Vyvanse, A Prodrug Stimulant for Attention-Deficit/Hyperactivity Disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873712/)
 
 ### Activity Algorithms
 
@@ -127,24 +136,22 @@
 
 ## Python Packages for Metrics and Algorithms
 
-- HeartPy
-- PyHRV
-- PyEEG
-- hrv
-- biosppy
-- hrv-analysis
-- sleep-edf
-- visbrain
-- py-ecg-detectors
+- [HeartPy](https://python-heart-rate-analysis-toolkit.readthedocs.io/en/latest/)
+- [PyHRV](https://pyhrv.readthedocs.io/en/latest/)
+- [hrv](https://hrv.readthedocs.io/en/latest/)
+- [biosppy](https://biosppy.readthedocs.io/en/stable/)
+- [hrv-analysis](https://aura-healthcare.github.io/hrv-analysis/)
+- [py-ecg-detectors](https://pypi.org/project/py-ecg-detectors/)
+- [SleepEEGNet: Sleep Stage Scoring - Deep Learning](https://github.com/MousaviSajad/SleepEEGNet)
 
 ### Sentiment Analysis Packages
 
-- textblob
-- nltk
-- spacy
-- gensim
-- polyglot
-- flair
-- fasttext
-- transformers
-- stanfordnlp
+- [textblob](https://textblob.readthedocs.io/en/dev/)
+- [nltk](https://www.nltk.org/)
+- [spacy](https://spacy.io/)
+- [gensim](https://radimrehurek.com/gensim/)
+- [polyglot](https://polyglot.readthedocs.io/en/latest/)
+- [flair](https://flairnlp.github.io/)
+- [fasttext](https://fasttext.cc/)
+- [transformers](https://huggingface.co/transformers/)
+- [stanfordnlp](https://stanfordnlp.github.io/stanfordnlp/)
