@@ -13,6 +13,7 @@
 - HRV
 - Heart Rate
 - ECG
+  - [Using Apple Watch ECG data for HRV monitoring and stress prediction](https://pubmed.ncbi.nlm.nih.gov/36569803/)
 
 ---
 
@@ -115,7 +116,7 @@
 - Meditation
 - Screen Time
 - Steps, general activity
-- Body temperature?
+- Body/wrist temperature?
 - Emotional sentiment
 - Medications
   - [The effects of the prodrug Vyvanse on spatial working memory and adiposity in rats](https://www.sciencedirect.com/science/article/abs/pii/S009130571830618X)
