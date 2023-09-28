@@ -11,6 +11,7 @@
 ## HRV Metrics
 
 - HRV
+  - [HRV Best Practices](https://imotions.com/blog/learning/best-practice/heart-rate-variability/#:~:text=One%20of%20the%20main%20divisions,high%20frequency%20beats%20that%20occur.)
 - Heart Rate
 - ECG
   - [Using Apple Watch ECG data for HRV monitoring and stress prediction](https://pubmed.ncbi.nlm.nih.gov/36569803/)
