@@ -1,1 +1,0 @@
-# This will be for processing all activity algorithms such as steps, calories, activity, stand time, screen time, etc.
